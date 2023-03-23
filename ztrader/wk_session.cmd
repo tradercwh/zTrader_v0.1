@@ -1,0 +1,1 @@
+wt nt --title "codes" Ubuntu2004.exe;nt --title "docker env" %SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe
